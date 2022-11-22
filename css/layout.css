@@ -161,6 +161,14 @@
 
 
 /* =====================  FAQ =======================*/
+.icon_star {
+  display: inline-block;
+    width: 7px;
+    height: 6px;
+    background: url(../images/icon_ess.png) no-repeat;
+    vertical-align: 3px;
+    margin: 0 3px;
+}
 .faq .search_box { position: relative; }
 .faq .btn_clear { position: absolute; right: 30px; top: 10px; border: none; width: 50px; height: 50px; background: url(../images/btn_clear.png) no-repeat 50% 50% / 16px; text-indent: -9999px; }
 .faq .btn_search { position: absolute; right: 0; top: 10px; border: none; width: 50px; height: 50px; background: url(../images/btn_search.png) no-repeat 50% 50% / 24px; text-indent: -9999px; }
